@@ -173,7 +173,7 @@ CREATE SCHEMA gold;
 
 ## 👨‍💻 Author
 
-**Pritesh Raj**
+**Abha Mudgal**
 Aspiring Data Analyst / Data Engineer
 
 ---
